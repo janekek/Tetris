@@ -8,7 +8,7 @@ This project represents my **first Java project**, created between **April and M
 
 ## Overview
 
-This project is a complete recreation of Tetris, focusing on understanding core programming concepts through practical implementation. Every aspect of the game — from rendering and game logic to input handling — was implemented manually.
+This project is a recreation of Tetris, focusing on understanding core programming concepts through practical implementation. Every aspect of the game — from rendering and game logic to input handling — was implemented manually.
 
 The goal was not just to replicate gameplay, but to deeply understand how such a system works internally.
 
@@ -21,27 +21,13 @@ The goal was not just to replicate gameplay, but to deeply understand how such a
 
 ---
 
-## Gamefeatures
-
-* Classic Tetris gameplay mechanics
-* Real-time piece movement and rotation
-* Line clearing system
-* Collision detection
-* Score tracking
-* Game loop and timing logic
-* Keyboard input handling
-
----
-
 ## Technical Details
 
+* Classic Tetris gameplay mechanics
 * Object-oriented design
-* Game loop architecture
+* Game loop and timing logic
 * Grid-based rendering logic
-* State management
+* State based
 * Event handling
-* Basic algorithmic problem solving
-
-All rendering and logic are handled manually using standard Java capabilities, without relying on external abstractions.
 
 ---
